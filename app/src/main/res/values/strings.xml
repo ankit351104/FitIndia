@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FitIndia</string>
+
+    <string name="facebook_app_id">5116610665118146</string>
+    <string name="fb_login_protocol_scheme">fb5116610665118146</string>
+    <string name="facebook_client_token">66a1839013d88e4811b8a0c47b4f84b4</string>
+
+</resources>
